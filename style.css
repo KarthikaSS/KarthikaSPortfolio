@@ -3,6 +3,7 @@ body{
   font-family: Arial, Helvetica, sans-serif;
   color: #565757;
 }
+//There are the general settings for the page.
 
 a:link {
   color: #267B26;
@@ -26,10 +27,12 @@ nav > a{
   margin: 30px 45px;
   font-size: 18px;
 }
+//This is to make sure the links look neatly spaced out at the top of the page.
 
 img{
   image-orientation: center;
 }
+//Makes the profile picture centered.
 
 
 .top{
@@ -44,10 +47,12 @@ img{
 ul{
   margin: 0 0 0 175px;
 }
+//Need to fix this with float values to have them appear in the center for all devices.
 
 ol{
   margin: 0 0 0 100px;
 }
+//See ul comment.
 
 
 h6{
